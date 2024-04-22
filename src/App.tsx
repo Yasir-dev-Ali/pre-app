@@ -1,4 +1,5 @@
 import './App.css'
+import Home from './component/Home'
 const App = () => {
   return (
    <>
@@ -22,6 +23,7 @@ const App = () => {
   <a href='https://www.youtube.com/@YasirCode' target='_blank' rel='noreferrer'>
     <img src='https://img.icons8.com/color/48/000000/youtube-play.png' alt='youtube' />
   </a>
+  <Home />
 </div>
 
 
